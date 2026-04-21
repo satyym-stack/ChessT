@@ -12,6 +12,22 @@ It is built as a personal daily-use app, but it can also be hosted publicly so a
 - `✦` Follow a structured lesson path
 - `⌘` Keep all progress stored locally in the browser
 
+## Screenshots
+
+Screens from the current app build:
+
+| `✦` Learn | `◉` Coach |
+|---|---|
+| ![Learn screen](docs/images/learn-screen.png) | ![Coach mode](docs/images/coach-mode.png) |
+
+| `↺` Drills | `⌘` Progress |
+|---|---|
+| ![Drills session](docs/images/drills-session.png) | ![Progress dashboard](docs/images/progress-dashboard.png) |
+
+| `◎` Review |
+|---|
+| ![Review screen](docs/images/review-screen.png) |
+
 ## What ChessT Does
 
 ChessT is designed to feel more like a coach than a plain puzzle app:
